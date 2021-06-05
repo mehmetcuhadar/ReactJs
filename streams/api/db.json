@@ -1,0 +1,20 @@
+{
+  "streams": [
+    {
+      "title": "mete",
+      "description": "merhaba",
+      "id": 1
+    },
+    {
+      "title": "mete",
+      "description": "merhaba",
+      "id": 2
+    },
+    {
+      "title": "new stream",
+      "description": "Mehmet ÇUHADAR",
+      "userId": "114254325872638857206",
+      "id": 3
+    }
+  ]
+}
